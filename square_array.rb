@@ -5,8 +5,7 @@ def square_array(num_array)
     x = num * num 
     new_arr << x
     new_arr
-    
-   binding.pry
+   #binding.pry
  end
     
     
