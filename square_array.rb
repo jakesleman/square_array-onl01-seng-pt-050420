@@ -4,7 +4,7 @@ def square_array(num_array)
   num_array.each do |num|
     x = num * num 
     new_arr << x
-    new_arr
+    p new_arr
    #binding.pry
  end
     
